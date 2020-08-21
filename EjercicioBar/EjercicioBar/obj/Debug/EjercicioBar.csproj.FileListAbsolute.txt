@@ -1,0 +1,15 @@
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.Form1.resources
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.Properties.Resources.resources
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.csproj.GenerateResource.cache
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\bin\Debug\EjercicioBar.exe.config
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\bin\Debug\EjercicioBar.exe
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\bin\Debug\EjercicioBar.pdb
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.exe
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.pdb
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.Form2.resources
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.Form3.resources
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.Form4.resources
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.Form5.resources
+C:\Users\Curso\source\repos\EjercicioBar\EjercicioBar\obj\Debug\EjercicioBar.Menu.resources

@@ -1,0 +1,11 @@
+﻿@model List<Google.Apis.YouTube.v3.Data.SearchResult>
+
+@foreach (var item in Model)
+{
+    <br />
+    @item.Snippet.Title
+    <br />
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/@item.Id.VideoId?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <br />
+}

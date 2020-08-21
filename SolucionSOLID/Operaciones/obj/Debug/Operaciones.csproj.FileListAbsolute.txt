@@ -1,0 +1,5 @@
+C:\Users\Curso\source\repos\SolucionSOLID\Operaciones\bin\Debug\Operaciones.dll
+C:\Users\Curso\source\repos\SolucionSOLID\Operaciones\bin\Debug\Operaciones.pdb
+C:\Users\Curso\source\repos\SolucionSOLID\Operaciones\obj\Debug\Operaciones.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\SolucionSOLID\Operaciones\obj\Debug\Operaciones.dll
+C:\Users\Curso\source\repos\SolucionSOLID\Operaciones\obj\Debug\Operaciones.pdb

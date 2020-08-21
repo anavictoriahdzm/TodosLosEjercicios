@@ -1,0 +1,7 @@
+C:\Users\Curso\source\repos\FileSystemWatcherExample\FileSystemWatcherExample\bin\Debug\FileSystemWatcherExample.exe.config
+C:\Users\Curso\source\repos\FileSystemWatcherExample\FileSystemWatcherExample\bin\Debug\FileSystemWatcherExample.exe
+C:\Users\Curso\source\repos\FileSystemWatcherExample\FileSystemWatcherExample\bin\Debug\FileSystemWatcherExample.pdb
+C:\Users\Curso\source\repos\FileSystemWatcherExample\FileSystemWatcherExample\obj\Debug\FileSystemWatcherExample.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\FileSystemWatcherExample\FileSystemWatcherExample\obj\Debug\FileSystemWatcherExample.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\FileSystemWatcherExample\FileSystemWatcherExample\obj\Debug\FileSystemWatcherExample.exe
+C:\Users\Curso\source\repos\FileSystemWatcherExample\FileSystemWatcherExample\obj\Debug\FileSystemWatcherExample.pdb

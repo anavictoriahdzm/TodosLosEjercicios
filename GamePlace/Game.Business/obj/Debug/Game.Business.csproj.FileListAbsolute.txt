@@ -1,0 +1,12 @@
+C:\Users\Curso\source\repos\GamePlace\Game.Business\bin\Debug\Game.Business.dll.config
+C:\Users\Curso\source\repos\GamePlace\Game.Business\bin\Debug\Game.Business.dll
+C:\Users\Curso\source\repos\GamePlace\Game.Business\bin\Debug\Game.Business.pdb
+C:\Users\Curso\source\repos\GamePlace\Game.Business\bin\Debug\EntityFramework.dll
+C:\Users\Curso\source\repos\GamePlace\Game.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Curso\source\repos\GamePlace\Game.Business\bin\Debug\EntityFramework.xml
+C:\Users\Curso\source\repos\GamePlace\Game.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Curso\source\repos\GamePlace\Game.Business\obj\Debug\Game.Business.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\GamePlace\Game.Business\obj\Debug\Game.Business.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\GamePlace\Game.Business\obj\Debug\Game.Business.csproj.CopyComplete
+C:\Users\Curso\source\repos\GamePlace\Game.Business\obj\Debug\Game.Business.dll
+C:\Users\Curso\source\repos\GamePlace\Game.Business\obj\Debug\Game.Business.pdb

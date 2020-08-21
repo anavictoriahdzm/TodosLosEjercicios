@@ -1,0 +1,11 @@
+C:\Users\Curso\source\repos\GamePlace\Game.Common\bin\Debug\Game.Common.dll.config
+C:\Users\Curso\source\repos\GamePlace\Game.Common\bin\Debug\Game.Common.dll
+C:\Users\Curso\source\repos\GamePlace\Game.Common\bin\Debug\Game.Common.pdb
+C:\Users\Curso\source\repos\GamePlace\Game.Common\bin\Debug\EntityFramework.dll
+C:\Users\Curso\source\repos\GamePlace\Game.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Curso\source\repos\GamePlace\Game.Common\bin\Debug\EntityFramework.xml
+C:\Users\Curso\source\repos\GamePlace\Game.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Curso\source\repos\GamePlace\Game.Common\obj\Debug\Game.Common.csproj.CopyComplete
+C:\Users\Curso\source\repos\GamePlace\Game.Common\obj\Debug\Game.Common.dll
+C:\Users\Curso\source\repos\GamePlace\Game.Common\obj\Debug\Game.Common.pdb
+C:\Users\Curso\source\repos\GamePlace\Game.Common\obj\Debug\Game.Common.csprojAssemblyReference.cache

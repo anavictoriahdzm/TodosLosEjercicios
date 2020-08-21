@@ -1,0 +1,6 @@
+C:\Users\Curso\source\repos\WSEjemplo2\MiWS\bin\MiWS.dll.config
+C:\Users\Curso\source\repos\WSEjemplo2\MiWS\bin\MiWS.dll
+C:\Users\Curso\source\repos\WSEjemplo2\MiWS\bin\MiWS.pdb
+C:\Users\Curso\source\repos\WSEjemplo2\MiWS\obj\Debug\MiWS.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\WSEjemplo2\MiWS\obj\Debug\MiWS.dll
+C:\Users\Curso\source\repos\WSEjemplo2\MiWS\obj\Debug\MiWS.pdb

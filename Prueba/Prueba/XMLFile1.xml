@@ -1,0 +1,38 @@
+﻿<root>
+<Clientes>
+  <idCliente>1</idCliente>
+  <nombreCliente>Ana Hernandez</nombreCliente>
+  <fechaCliente>1996-12-24T13:31:00</fechaCliente>
+  <sexo>
+    <decSexo>Femenino</decSexo>
+  </sexo>
+  <telCliente>8765</telCliente>
+</Clientes>
+<Clientes>
+  <idCliente>2</idCliente>
+  <nombreCliente>Ernesto Villalobos</nombreCliente>
+  <fechaCliente>1997-08-25T13:31:37</fechaCliente>
+  <sexo>
+    <decSexo>Masculino</decSexo>
+  </sexo>
+  <telCliente>8754</telCliente>
+ </Clientes>
+<Clientes>
+  <idCliente>3</idCliente>
+  <nombreCliente>Debanhi Nava</nombreCliente>
+  <fechaCliente>1996-12-17T13:32:10</fechaCliente>
+  <sexo>
+    <decSexo>Femenino</decSexo>
+  </sexo>
+  <telCliente>7678</telCliente>
+</Clientes>
+<Clientes>
+  <idCliente>4</idCliente>
+  <nombreCliente>Lizbeth Hernandez</nombreCliente>
+  <fechaCliente>2019-11-14T15:04:18.8795771-06:00</fechaCliente>
+  <sexo>
+    <decSexo>Femenino</decSexo>
+  </sexo>
+  <telCliente>756</telCliente>
+</Clientes>
+</root>

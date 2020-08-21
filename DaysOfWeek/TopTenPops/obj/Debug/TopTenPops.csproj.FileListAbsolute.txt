@@ -1,0 +1,7 @@
+C:\Users\Curso\source\repos\DaysOfWeek\TopTenPops\bin\Debug\TopTenPops.exe.config
+C:\Users\Curso\source\repos\DaysOfWeek\TopTenPops\bin\Debug\TopTenPops.exe
+C:\Users\Curso\source\repos\DaysOfWeek\TopTenPops\bin\Debug\TopTenPops.pdb
+C:\Users\Curso\source\repos\DaysOfWeek\TopTenPops\obj\Debug\TopTenPops.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\DaysOfWeek\TopTenPops\obj\Debug\TopTenPops.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\DaysOfWeek\TopTenPops\obj\Debug\TopTenPops.exe
+C:\Users\Curso\source\repos\DaysOfWeek\TopTenPops\obj\Debug\TopTenPops.pdb

@@ -1,0 +1,13 @@
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\bin\Debug\Practica1(Calculadora).exe.config
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\bin\Debug\Practica1(Calculadora).exe
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\bin\Debug\Practica1(Calculadora).pdb
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\obj\Debug\Practica1(Calculadora).csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\obj\Debug\Practica1_Calculadora_.Form1.resources
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\obj\Debug\Practica1_Calculadora_.Properties.Resources.resources
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\obj\Debug\Practica1(Calculadora).csproj.GenerateResource.cache
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\obj\Debug\Practica1(Calculadora).csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\obj\Debug\Practica1(Calculadora).exe
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\obj\Debug\Practica1(Calculadora).pdb
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\bin\Debug\aa\Practica1(Calculadora).resources.dll
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\obj\Debug\Practica1_Calculadora_.Form1.aa.resources
+C:\Users\Curso\source\repos\Practica1(Calculadora)\Practica1(Calculadora)\obj\Debug\aa\Practica1(Calculadora).resources.dll

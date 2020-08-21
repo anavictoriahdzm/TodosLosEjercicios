@@ -1,0 +1,8 @@
+C:\Users\Curso\source\repos\Matematicas\Matematicas\bin\Debug\netstandard2.0\Matematicas.deps.json
+C:\Users\Curso\source\repos\Matematicas\Matematicas\bin\Debug\netstandard2.0\Matematicas.dll
+C:\Users\Curso\source\repos\Matematicas\Matematicas\bin\Debug\netstandard2.0\Matematicas.pdb
+C:\Users\Curso\source\repos\Matematicas\Matematicas\obj\Debug\netstandard2.0\Matematicas.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Matematicas\Matematicas\obj\Debug\netstandard2.0\Matematicas.AssemblyInfoInputs.cache
+C:\Users\Curso\source\repos\Matematicas\Matematicas\obj\Debug\netstandard2.0\Matematicas.AssemblyInfo.cs
+C:\Users\Curso\source\repos\Matematicas\Matematicas\obj\Debug\netstandard2.0\Matematicas.dll
+C:\Users\Curso\source\repos\Matematicas\Matematicas\obj\Debug\netstandard2.0\Matematicas.pdb

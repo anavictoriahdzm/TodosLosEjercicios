@@ -1,0 +1,14 @@
+C:\Users\Curso\source\repos\LinqSamples\Cars\bin\Debug\fuel.csv
+C:\Users\Curso\source\repos\LinqSamples\Cars\bin\Debug\Cars.exe.config
+C:\Users\Curso\source\repos\LinqSamples\Cars\bin\Debug\Cars.exe
+C:\Users\Curso\source\repos\LinqSamples\Cars\bin\Debug\Cars.pdb
+C:\Users\Curso\source\repos\LinqSamples\Cars\obj\Debug\Cars.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\LinqSamples\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\LinqSamples\Cars\obj\Debug\Cars.exe
+C:\Users\Curso\source\repos\LinqSamples\Cars\obj\Debug\Cars.pdb
+C:\Users\Curso\source\repos\LinqSamples\Cars\bin\Debug\manufacturers.csv
+C:\Users\Curso\source\repos\LinqSamples\Cars\bin\Debug\EntityFramework.dll
+C:\Users\Curso\source\repos\LinqSamples\Cars\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Curso\source\repos\LinqSamples\Cars\bin\Debug\EntityFramework.xml
+C:\Users\Curso\source\repos\LinqSamples\Cars\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Curso\source\repos\LinqSamples\Cars\obj\Debug\Cars.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\Curso\source\repos\GamePlace1\UIForms\bin\Debug\UIForms.exe.config
+C:\Users\Curso\source\repos\GamePlace1\UIForms\bin\Debug\UIForms.exe
+C:\Users\Curso\source\repos\GamePlace1\UIForms\bin\Debug\UIForms.pdb
+C:\Users\Curso\source\repos\GamePlace1\UIForms\bin\Debug\EntityFramework.dll
+C:\Users\Curso\source\repos\GamePlace1\UIForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Curso\source\repos\GamePlace1\UIForms\bin\Debug\EntityFramework.xml
+C:\Users\Curso\source\repos\GamePlace1\UIForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Curso\source\repos\GamePlace1\UIForms\obj\Debug\UIForms.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\GamePlace1\UIForms\obj\Debug\UIForms.Form1.resources
+C:\Users\Curso\source\repos\GamePlace1\UIForms\obj\Debug\UIForms.Properties.Resources.resources
+C:\Users\Curso\source\repos\GamePlace1\UIForms\obj\Debug\UIForms.csproj.GenerateResource.cache
+C:\Users\Curso\source\repos\GamePlace1\UIForms\obj\Debug\UIForms.csproj.CopyComplete
+C:\Users\Curso\source\repos\GamePlace1\UIForms\obj\Debug\UIForms.exe
+C:\Users\Curso\source\repos\GamePlace1\UIForms\obj\Debug\UIForms.pdb
+C:\Users\Curso\source\repos\GamePlace1\UIForms\obj\Debug\UIForms.Presentacion.FrmGames.resources

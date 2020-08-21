@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompleteCoder.CustomerDatabase.API", "CompleteCoder.CustomerDatabase.API\CompleteCoder.CustomerDatabase.API.csproj", "{93E5A6E7-C398-4469-A546-727D6CF57F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompleteCoder.CustomerDatabase.API.Tests", "CompleteCoder.CustomerDatabase.API.Tests\CompleteCoder.CustomerDatabase.API.Tests.csproj", "{C2A45592-BF21-4560-ACB9-6871B8C9D3EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E5A6E7-C398-4469-A546-727D6CF57F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E5A6E7-C398-4469-A546-727D6CF57F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E5A6E7-C398-4469-A546-727D6CF57F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E5A6E7-C398-4469-A546-727D6CF57F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A45592-BF21-4560-ACB9-6871B8C9D3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A45592-BF21-4560-ACB9-6871B8C9D3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A45592-BF21-4560-ACB9-6871B8C9D3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A45592-BF21-4560-ACB9-6871B8C9D3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE476A7B-48DD-4561-BF1D-7626FF5BF0A7}
+	EndGlobalSection
+EndGlobal

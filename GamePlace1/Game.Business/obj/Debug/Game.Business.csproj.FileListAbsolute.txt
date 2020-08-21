@@ -1,0 +1,6 @@
+C:\Users\Curso\source\repos\GamePlace1\Game.Business\bin\Debug\Game.Business.dll
+C:\Users\Curso\source\repos\GamePlace1\Game.Business\bin\Debug\Game.Business.pdb
+C:\Users\Curso\source\repos\GamePlace1\Game.Business\obj\Debug\Game.Business.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\GamePlace1\Game.Business\obj\Debug\Game.Business.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\GamePlace1\Game.Business\obj\Debug\Game.Business.dll
+C:\Users\Curso\source\repos\GamePlace1\Game.Business\obj\Debug\Game.Business.pdb

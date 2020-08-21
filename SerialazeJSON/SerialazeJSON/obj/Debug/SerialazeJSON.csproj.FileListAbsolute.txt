@@ -1,0 +1,9 @@
+C:\Users\Curso\source\repos\SerialazeJSON\SerialazeJSON\bin\Debug\SerialazeJSON.exe.config
+C:\Users\Curso\source\repos\SerialazeJSON\SerialazeJSON\bin\Debug\SerialazeJSON.exe
+C:\Users\Curso\source\repos\SerialazeJSON\SerialazeJSON\bin\Debug\SerialazeJSON.pdb
+C:\Users\Curso\source\repos\SerialazeJSON\SerialazeJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Curso\source\repos\SerialazeJSON\SerialazeJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Curso\source\repos\SerialazeJSON\SerialazeJSON\obj\Debug\SerialazeJSON.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\SerialazeJSON\SerialazeJSON\obj\Debug\SerialazeJSON.csproj.CopyComplete
+C:\Users\Curso\source\repos\SerialazeJSON\SerialazeJSON\obj\Debug\SerialazeJSON.exe
+C:\Users\Curso\source\repos\SerialazeJSON\SerialazeJSON\obj\Debug\SerialazeJSON.pdb

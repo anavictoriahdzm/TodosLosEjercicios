@@ -1,0 +1,7 @@
+C:\Users\Curso\source\repos\ExpressionMethods\ExpressionMethods\bin\Debug\ExpressionMethods.exe.config
+C:\Users\Curso\source\repos\ExpressionMethods\ExpressionMethods\bin\Debug\ExpressionMethods.exe
+C:\Users\Curso\source\repos\ExpressionMethods\ExpressionMethods\bin\Debug\ExpressionMethods.pdb
+C:\Users\Curso\source\repos\ExpressionMethods\ExpressionMethods\obj\Debug\ExpressionMethods.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\ExpressionMethods\ExpressionMethods\obj\Debug\ExpressionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\ExpressionMethods\ExpressionMethods\obj\Debug\ExpressionMethods.exe
+C:\Users\Curso\source\repos\ExpressionMethods\ExpressionMethods\obj\Debug\ExpressionMethods.pdb

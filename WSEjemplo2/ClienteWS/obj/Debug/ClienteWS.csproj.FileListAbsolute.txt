@@ -1,0 +1,9 @@
+C:\Users\Curso\source\repos\WSEjemplo2\ClienteWS\bin\Debug\ClienteWS.exe.config
+C:\Users\Curso\source\repos\WSEjemplo2\ClienteWS\bin\Debug\ClienteWS.exe
+C:\Users\Curso\source\repos\WSEjemplo2\ClienteWS\bin\Debug\ClienteWS.pdb
+C:\Users\Curso\source\repos\WSEjemplo2\ClienteWS\obj\Debug\ClienteWS.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\WSEjemplo2\ClienteWS\obj\Debug\ClienteWS.Form1.resources
+C:\Users\Curso\source\repos\WSEjemplo2\ClienteWS\obj\Debug\ClienteWS.Properties.Resources.resources
+C:\Users\Curso\source\repos\WSEjemplo2\ClienteWS\obj\Debug\ClienteWS.csproj.GenerateResource.cache
+C:\Users\Curso\source\repos\WSEjemplo2\ClienteWS\obj\Debug\ClienteWS.exe
+C:\Users\Curso\source\repos\WSEjemplo2\ClienteWS\obj\Debug\ClienteWS.pdb

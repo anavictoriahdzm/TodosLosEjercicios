@@ -1,0 +1,7 @@
+C:\Users\Curso\source\repos\DaysOfWeek\DisplaySingleCountry\bin\Debug\DisplaySingleCountry.exe.config
+C:\Users\Curso\source\repos\DaysOfWeek\DisplaySingleCountry\bin\Debug\DisplaySingleCountry.exe
+C:\Users\Curso\source\repos\DaysOfWeek\DisplaySingleCountry\bin\Debug\DisplaySingleCountry.pdb
+C:\Users\Curso\source\repos\DaysOfWeek\DisplaySingleCountry\obj\Debug\DisplaySingleCountry.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\DaysOfWeek\DisplaySingleCountry\obj\Debug\DisplaySingleCountry.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\DaysOfWeek\DisplaySingleCountry\obj\Debug\DisplaySingleCountry.exe
+C:\Users\Curso\source\repos\DaysOfWeek\DisplaySingleCountry\obj\Debug\DisplaySingleCountry.pdb

@@ -1,0 +1,6 @@
+C:\Users\Curso\source\repos\Clase1\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\Curso\source\repos\Clase1\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\Curso\source\repos\Clase1\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\Curso\source\repos\Clase1\ConsoleClient\obj\Debug\ConsoleClient.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\Clase1\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\Curso\source\repos\Clase1\ConsoleClient\obj\Debug\ConsoleClient.pdb

@@ -1,0 +1,9 @@
+C:\Users\Curso\source\repos\SolucionSOLID\SingleResponsibility1\bin\Debug\SingleResponsibility1.exe.config
+C:\Users\Curso\source\repos\SolucionSOLID\SingleResponsibility1\bin\Debug\SingleResponsibility1.exe
+C:\Users\Curso\source\repos\SolucionSOLID\SingleResponsibility1\bin\Debug\SingleResponsibility1.pdb
+C:\Users\Curso\source\repos\SolucionSOLID\SingleResponsibility1\bin\Debug\Operaciones.dll
+C:\Users\Curso\source\repos\SolucionSOLID\SingleResponsibility1\bin\Debug\Operaciones.pdb
+C:\Users\Curso\source\repos\SolucionSOLID\SingleResponsibility1\obj\Debug\SingleResponsibility1.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\SolucionSOLID\SingleResponsibility1\obj\Debug\SingleResponsibility1.csproj.CopyComplete
+C:\Users\Curso\source\repos\SolucionSOLID\SingleResponsibility1\obj\Debug\SingleResponsibility1.exe
+C:\Users\Curso\source\repos\SolucionSOLID\SingleResponsibility1\obj\Debug\SingleResponsibility1.pdb

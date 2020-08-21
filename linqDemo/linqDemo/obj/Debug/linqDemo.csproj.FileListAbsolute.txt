@@ -1,0 +1,7 @@
+C:\Users\Curso\source\repos\linqDemo\linqDemo\bin\Debug\linqDemo.exe.config
+C:\Users\Curso\source\repos\linqDemo\linqDemo\bin\Debug\linqDemo.exe
+C:\Users\Curso\source\repos\linqDemo\linqDemo\bin\Debug\linqDemo.pdb
+C:\Users\Curso\source\repos\linqDemo\linqDemo\obj\Debug\linqDemo.csprojAssemblyReference.cache
+C:\Users\Curso\source\repos\linqDemo\linqDemo\obj\Debug\linqDemo.csproj.CoreCompileInputs.cache
+C:\Users\Curso\source\repos\linqDemo\linqDemo\obj\Debug\linqDemo.exe
+C:\Users\Curso\source\repos\linqDemo\linqDemo\obj\Debug\linqDemo.pdb
